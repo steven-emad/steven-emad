@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-  <img src="https://www.steven-emad.website/assets/steven-emad-avatar.png" width="180" style="border-radius: 20px; margin-right: 20px;" alt="Steven Emad" align="left"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding gif" align="right"/>
+<!--   <img src="https://www.steven-emad.website/assets/steven-emad-avatar.png" width="180" style="border-radius: 20px; margin-right: 20px;" alt="Steven Emad" align="left"/> -->
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding gif" align="right"/> -->
 </p>
 
 ---
