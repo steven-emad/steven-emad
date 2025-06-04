@@ -32,14 +32,36 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" alt="info gif"/> About Me
 
-```javascript
-const steven = {
-  name: "Steven Emad",
-  role: "Full Stack Web Developer",
-  contentCreator: true,
-  youtube: "https://www.youtube.com/@steven-emad-x",
-  website: "https://www.steven-emad.website",
-  tools: ["React", "Next.js", "Node.js", "Express", "TailwindCSS", "MySQL", "PostgreSQL"],
-  currentFocus: "Building modern web apps & creating educational tech content",
-  funFact: "I simplify complex code like magic 🧙‍♂️"
-};
+<table>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td>Steven Emad</td>
+  </tr>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>Full Stack Web Developer</td>
+  </tr>
+  <tr>
+    <td><strong>YouTube</strong></td>
+    <td><a href="https://www.youtube.com/@steven-emad-x" target="_blank">Steven Emad on YouTube</a></td>
+  </tr>
+  <tr>
+    <td><strong>Website</strong></td>
+    <td><a href="https://www.steven-emad.website" target="_blank">www.steven-emad.website</a></td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Tech</strong></td>
+    <td>React, Next.js, Node.js, Express, TailwindCSS, MySQL, PostgreSQL</td>
+  </tr>
+  <tr>
+    <td><strong>Current Focus</strong></td>
+    <td>Building modern web apps & creating educational tech content</td>
+  </tr>
+  <tr>
+    <td><strong>Fun Fact</strong></td>
+    <td>I simplify complex code like magic 🧙‍♂️</td>
+  </tr>
+</table>
+
+---
+
