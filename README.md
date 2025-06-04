@@ -50,7 +50,6 @@
 - ✍️ **Content Creator:** Tech, coding, & educational content  
 - 🧰 **Tech Stack:** React, Next.js, Node.js, Express, TailwindCSS, MySQL, PostgreSQL  
 - 🎯 **Focus:** Building modern web apps & simplifying complex code  
-- ✨ **Fun Fact:** I simplify complex code like magic 🧙‍♂️
 
 ---
 
