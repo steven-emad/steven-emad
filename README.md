@@ -1,7 +1,8 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="100" alt="Hello There - Peter Parker" />
-  <br/>
-  <strong>Hello there 👋</strong>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=500&lines=Hello+there+👋;Welcome+to+my+GitHub+profile!;I'm+Steven+Emad+🚀" alt="Welcome Banner" />
+</p>
+
 </h2>
 
 <h2 align="center">
