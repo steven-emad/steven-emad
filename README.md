@@ -35,7 +35,7 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mysql,postgres,js,ts,php,python" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,postgres,js,php" alt="Skills" />
 
 </div>
 
