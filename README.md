@@ -24,44 +24,23 @@
 </p>
 
 <p align="center">
-<!--   <img src="https://www.steven-emad.website/assets/steven-emad-avatar.png" width="180" style="border-radius: 20px; margin-right: 20px;" alt="Steven Emad" align="left"/> -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding gif" align="right"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding gif"/>
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" alt="info gif"/> About Me
+### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td><strong>Name</strong></td>
-    <td>Steven Emad</td>
-  </tr>
-  <tr>
-    <td><strong>Role</strong></td>
-    <td>Full Stack Web Developer</td>
-  </tr>
-  <tr>
-    <td><strong>YouTube</strong></td>
-    <td><a href="https://www.youtube.com/@steven-emad-x" target="_blank">Steven Emad on YouTube</a></td>
-  </tr>
-  <tr>
-    <td><strong>Website</strong></td>
-    <td><a href="https://www.steven-emad.website" target="_blank">www.steven-emad.website</a></td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Tech</strong></td>
-    <td>React, Next.js, Node.js, Express, TailwindCSS, MySQL, PostgreSQL</td>
-  </tr>
-  <tr>
-    <td><strong>Current Focus</strong></td>
-    <td>Building modern web apps & creating educational tech content</td>
-  </tr>
-  <tr>
-    <td><strong>Fun Fact</strong></td>
-    <td>I simplify complex code like magic 🧙‍♂️</td>
-  </tr>
-</table>
+- 💼 **Name:** Steven Emad  
+- 🧑‍💻 **Role:** Full Stack Web Developer  
+- 🎥 **YouTube:** [@steven-emad-x](https://www.youtube.com/@steven-emad-x)  
+- 🌐 **Website:** [www.steven-emad.website](https://www.steven-emad.website)  
+- 🛠️ **Tech Stack:**  
+  `React` • `Next.js` • `Node.js` • `Express` • `TailwindCSS` • `MySQL` • `PostgreSQL`  
+- 🎯 **Currently Focused On:**  
+  Building modern web apps & creating educational tech content  
+- 🧙‍♂️ **Fun Fact:**  
+  I simplify complex code like magic!
 
 ---
 
