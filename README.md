@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Steven%20Emad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:support@steven-emad.website" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-steven@codeverse.icu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-support@steven--emad.website-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
