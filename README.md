@@ -39,8 +39,7 @@ const steven = {
   contentCreator: true,
   youtube: "https://www.youtube.com/@steven-emad-x",
   website: "https://www.steven-emad.website",
-  codeLanguages: ["JavaScript", "TypeScript", "PHP", "Python"],
-  tools: ["React", "Next.js", "Node.js", "Express", "TailwindCSS", "MySQL", "MongoDB"],
+  tools: ["React", "Next.js", "Node.js", "Express", "TailwindCSS", "MySQL", "PostgreSQL"],
   currentFocus: "Building modern web apps & creating educational tech content",
   funFact: "I simplify complex code like magic 🧙‍♂️"
 };
