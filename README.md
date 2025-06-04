@@ -1,6 +1,12 @@
 <h2 align="center">
+  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="100" alt="Hello There - Peter Parker" />
+  <br/>
+  <strong>Hello there 👋</strong>
+</h2>
+
+<h2 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" />
-  <strong>ستيفن عماد || Steven Emad</strong>
+  <strong>Steven Emad</strong>
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45" />
 </h2>
 
@@ -28,15 +34,11 @@
 ### 🚀 About Me
 
 <div align="center">
-  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="coding" />
-
 </div>
 
 <div align="center">
-  
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mysql,postgres,js,php" alt="Skills" />
-
 </div>
 
 ---
